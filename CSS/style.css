@@ -540,11 +540,12 @@ h1 {
   }
 
   .image-container {
-    top: -20px;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     position: relative;
     margin: auto;
+    left: 15px;
+    
   }
 
   .grup-tombol {
