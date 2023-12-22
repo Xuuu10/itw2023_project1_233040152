@@ -536,12 +536,11 @@ h1 {
   }
 
   .image-container {
-    width: 250px;
-    height: 250px;
+    width: 210px;
+    height: 210px;
     position: relative;
     margin: auto;
     left: 3px;
-    
   }
 
   .grup-tombol {
