@@ -279,9 +279,8 @@ nav ul li a:hover {
 .container-about p {
   text-align: justify;
   color: #ddd;
-  padding: 15px;
+  padding: 5px;
   font-size: 1.4em;
-  list-style: georgian;
 }
 
 /* Akhir About */
@@ -611,6 +610,6 @@ h1 {
   }
 
   .accordion {
-    /* pointer-events: none; */
+    pointer-events: none;
   }
 }
